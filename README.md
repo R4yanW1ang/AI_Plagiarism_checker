@@ -6,6 +6,10 @@ This project detects AI-generated content in student submissions and generates i
 
 pip install -r requirements.txt
 
+# Configuration
+
+Plug in your canvas token & canvas url into config.json in the root directory
+
 # Run main.py
 
 python src/main.py
