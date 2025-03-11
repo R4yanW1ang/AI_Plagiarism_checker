@@ -8,7 +8,12 @@ This project detects AI-generated content in student submissions and generates i
 
 # Configuration
 
-Plug in your canvas token & canvas url into config.json in the root directory
+Plug in your own configurations into the config.json in the root directory including:
+- canvas token
+- canvas url
+- COURSE_ID
+- ASSIGNMENT_ID
+
 ```  
 "canvas": {  
     "token": "your own canvas token",  
