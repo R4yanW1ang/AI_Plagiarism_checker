@@ -1,0 +1,15 @@
+{
+    "canvas": {
+        "token": "27376~QvtJvvuMNHhZEGHGE3T8Xrh4fB4CE8fc99PYtx3k7Cx3FX3ZtUaYx7cMnnNQDWDH",
+        "url": "https://aristai.instructure.com/",
+        "COURSE_ID": 110,
+        "ASSIGNMENT_ID": 229 
+    },
+
+    "openai": {
+        "model_id": "gpt2",
+        "threshold": 20,
+        "sharpness": 5,
+        "burstiness_weight": 0.2
+    }
+}
