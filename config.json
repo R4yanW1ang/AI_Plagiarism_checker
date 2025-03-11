@@ -1,7 +1,7 @@
 {
     "canvas": {
-        "token": "27376~QvtJvvuMNHhZEGHGE3T8Xrh4fB4CE8fc99PYtx3k7Cx3FX3ZtUaYx7cMnnNQDWDH",
-        "url": "https://aristai.instructure.com/",
+        "token": "your own canvas token",
+        "url": "your canvas",
         "COURSE_ID": 110,
         "ASSIGNMENT_ID": 229 
     },
