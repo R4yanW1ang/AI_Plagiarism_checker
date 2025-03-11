@@ -4,7 +4,7 @@ This project detects AI-generated content in student submissions and generates i
 
 # set up the environment by running
 
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 
 # Configuration
 
