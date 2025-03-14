@@ -2,7 +2,7 @@
 
 This project detects AI-generated content in student submissions and generates interpretability-focused reports.
 
-# set up the environment by running
+# Environment Setup
 
 `pip install -r requirements.txt`
 
